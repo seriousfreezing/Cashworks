@@ -179,12 +179,12 @@ metafile = true
 
 [[files]]
 file = "mods/ars-creo.pw.toml"
-hash = "b4cc8e095b7f51683e7938042c97cae5a281fa353a4fb421a8182b39de08825f"
+hash = "3c947528b3412d6b5e308b587c63bc357bf731a290c8843febcaa8879e0c4086"
 metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "c36e4c0f2c6def9ec97b1689db41a2b29f36bd02315428316e5ec0c2a22731a4"
+hash = "09b84a42da91339efbc640824636624920b1fd74b7e251d70adbb3217b3f7cf3"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ hash = "1e216ce90e49e283e133daee2fb59a09cb3a93a515926c2215778f833b2da687"
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "df9fa54fc9635b60d8788138da56e972dabb350e6b55e0ce6709c29f029926d6"
+hash = "14b1ec5e16b3ce51752b10271a1457536acafdcacfeb807728478f337b34298e"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "81cff284085ce98a3a3dbcfeecdd127602b421468232eb3f167ebea57bdcf22d"
+hash = "0fdf262047af365220b5c871dc63dab8e78905b44d4b0536b8bb99e9719d378e"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "3979b82d5760d5a21e6bfecc9de4d49163880ae335e24b8de3fbd1c398617c4a"
+hash = "f85d238a2efeab467e28ac5766b1acbabe90f8fba0a017f0b08e888ff08b5104"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "9c670d42b6d25910d0bd1abce187cd864c8d5097f2e99ebf9ce555dc262aaccc"
+hash = "ed9c23189614bddb4cfd4afda1bedd666abece458fee388d7c9898854878a662"
 metafile = true
 
 [[files]]
@@ -457,12 +457,12 @@ metafile = true
 
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
-hash = "8885a270b8065fd0477078f258b8d59fa07b3cc1a7cfb30ec3f298b380f4cefb"
+hash = "22ffca942573f1c39cc6c495122a31706a12eeb655c013c6c017aa1306ccaf7b"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
+hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
+hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-polymorphism.pw.toml"
-hash = "27910723422823edab72eb616d7b7ba717f505061367ccc590d78a92d9c8392f"
+hash = "68a55e82a93a7c080c5799e5abcfebcd65cca78443a7de64f5083f109720734d"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "058ffeb5d53f7390b2cb3b91017ede768427893e43a433ec5d6e4b267547d5a6"
+hash = "8be59d4bd5e7aada4edc43d17aabd1efd87a6837f89033e8f68193c4958fddc4"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "6068cdff2ed4152619680b61ec139e35ac3ef3f867ec34c3a1fc41a24b446465"
+hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
 metafile = true
 
 [[files]]
