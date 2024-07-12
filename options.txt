@@ -1,0 +1,7 @@
+version:3465
+enableVsync:false
+simulationDistance:5
+key_key.azurelib.reload:key.keyboard.unknown
+key_key.azurelib.scope:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.v
+key_key.voice_chat:key.keyboard.grave.accent

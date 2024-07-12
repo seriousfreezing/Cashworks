@@ -1,0 +1,13 @@
+name = "Cashworks"
+author = "SeriousFreezing"
+version = "1.0.0-neoforge"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e7d4bda0cfce95e99741cf6e90e8630eac7e7dfdc7018f7f10fe7190720e44f8"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

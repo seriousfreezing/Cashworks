@@ -1,0 +1,8 @@
+{
+  "common": {
+    "allowTeleport": false
+  },
+  "client": {
+    "displayWithChatOpen": true
+  }
+}
