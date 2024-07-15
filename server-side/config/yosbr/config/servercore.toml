@@ -1,0 +1,7 @@
+[features]
+	lobotomize_villagers = true
+	item_merge_radius = 0.75
+	xp_merge_radius = 1.0
+
+[optimizations]
+	fast_biome_lookups = true

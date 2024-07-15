@@ -1,0 +1,13 @@
+name = "Minecraft 1.20.1 with NeoForge"
+author = "SeriousFreezing"
+version = "1.20.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5093852dbe51d879c49f705c880c24e86712063ca75b942d74a4dc441f89d966"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

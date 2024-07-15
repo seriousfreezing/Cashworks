@@ -1,0 +1,13 @@
+name = "Advanced Reborn"
+filename = "AdvancedReborn-1.20.1-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e2effc1ef846f965ded32b6670987dbd225ef78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5212048
+project-id = 543089
