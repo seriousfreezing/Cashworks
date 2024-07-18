@@ -1,12 +1,12 @@
-name = "Cashworks"
+name = "Minecraft 1.20.1 with NeoForge"
 author = "SeriousFreezing"
-version = "1.0.0-neoforge"
+version = "1.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d07a8e86abfc787b9f28e5e263449960438f88247fa6e82ad97611e9e7500e91"
+hash = "da4a47c828166b153a1fcc974c68bd081d505c8721180d7102fab512183520c6"
 
 [versions]
 minecraft = "1.20.1"
