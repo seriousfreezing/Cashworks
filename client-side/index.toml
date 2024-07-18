@@ -157,14 +157,6 @@ file = "config/yosbr/options.txt"
 hash = "c2f236d154f9cbbd5ba46c37a3b7e03825b270def963cade6ef3b0f5bb79037f"
 
 [[files]]
-file = "gitattributes"
-hash = "2b4a36b3152af89c2af116c71c13e3d20ee2acb0c8cbc4b468d8e2d388727ae0"
-
-[[files]]
-file = "gitignore"
-hash = "98bfc6517d00b8bf84bfe8d2f7468c11a792cdf12814befb041bb3c137f64c53"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
 metafile = true
