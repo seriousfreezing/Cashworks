@@ -1,0 +1,5 @@
+version:3465
+enableVsync:false
+simulationDistance:5
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.v
+key_key.voice_chat:key.keyboard.grave.accent

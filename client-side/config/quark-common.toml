@@ -1,0 +1,7 @@
+[automation]
+	Chute = false
+[tweaks]
+	"Automatic Recipe Unlock" = false
+[oddities]
+	Backpack = false
+	Pipes = false
