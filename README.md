@@ -1,5 +1,6 @@
 # Cashworks
 
+## 📚Tutorial
 Use ATlauncher to play, other launchers are supported but may have problems or changes in the step-by-step.
 
 To install the modpack, follow these steps:
@@ -12,5 +13,5 @@ To install the modpack, follow these steps:
 
 `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/seriousfreezing/Cashworks/main/client-side/pack.toml`
 
-6. Add these two mods externally: [EntityCulling](https://cdn.modrinth.com/data/NNAgCjsB/versions/DHBIGCNn/entityculling-forge-1.6.6-mc1.20.1.jar), [Physics](https://www.patreon.com/file?h=105510754&i=19422295)
+6. Add these two mods externally: EntityCulling, [Physics.](https://www.patreon.com/file?h=105510754&i=19422295)
 7. You're ready to play!
