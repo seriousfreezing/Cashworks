@@ -1,6 +1,4 @@
-# Cashworks
-
-## 📚Tutorial
+# 📚Tutorial
 Use ATlauncher to play, other launchers are supported but may have problems or changes in the step-by-step.
 
 To install the modpack, follow these steps:
