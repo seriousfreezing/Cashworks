@@ -149,11 +149,6 @@ hash = "09b84a42da91339efbc640824636624920b1fd74b7e251d70adbb3217b3f7cf3"
 metafile = true
 
 [[files]]
-file = "mods/automobility.pw.toml"
-hash = "5e3ff30d77ab34aba80c887c01838d408a20e4730726c98feffbf15c568a7b5b"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f6da82f771d83d63282ad87dbf4c22f4aa75b5982adf015d3290701bb56d6414"
 metafile = true
