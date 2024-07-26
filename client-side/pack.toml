@@ -1,12 +1,12 @@
 name = "Cashworks"
 author = "SeriousFreezing"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f83fc98da3782d5a709f6c5b5011aea6d54a001bf9b365e64cdf64334b6321ba"
+hash = "8ebd0b6b8b100d88d0d19c9d77eb163f7948140470221c2bc687d9f64560e6ac"
 
 [versions]
 minecraft = "1.20.1"

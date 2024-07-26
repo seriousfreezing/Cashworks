@@ -25,6 +25,10 @@ file = "configureddefaults/config/carryon-common.json"
 hash = "38591403b114a8daac86b64d841e44ae8f8096655f46c44fdb9a1f0086b426e6"
 
 [[files]]
+file = "configureddefaults/config/dynamic_fps.json"
+hash = "d0ea710d0519736a0168dae656f0e10443634914a61a4fef91e570d29ac0386b"
+
+[[files]]
 file = "configureddefaults/config/embeddium-options.json"
 hash = "91bb6ebb1d1e1b01165e2cf1a2e022c0e519605978f8d1e9e5275688abd68c3d"
 
@@ -50,7 +54,7 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "configureddefaults/config/immediatelyfast.json"
-hash = "4b20aef02b08d53b15e25690e4eb8344ac88e3cde8bce7e2e30804b0535b8fe3"
+hash = "f0fa91c42d9a753f8f2773f193864fe248fe1a3527189d1490a0e0094bcd7049"
 
 [[files]]
 file = "configureddefaults/config/jade/jade.json"
@@ -74,7 +78,7 @@ hash = "1a9cdc7759fe1bcf6b194dbca59a25638e5acf7f2002583b885037f7a531d06a"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "37888303c450f5baedd9c9badcdc5fbb149d76c2ad7033192609f5e61d30f6cc"
+hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
 file = "configureddefaults/config/naturescompass.json"
@@ -94,7 +98,7 @@ hash = "975971b83816f2eaaf4ead93d88b1038719f0b63b3e9dd36a82e3c18c0bcdbb6"
 
 [[files]]
 file = "configureddefaults/config/quark-common.toml"
-hash = "225a9cae3f6bfe17c66e0f80ac4f0174ebea61c1f5da3da6625d358f9637b0ac"
+hash = "3ef8f0a3f58977ec60b9366332df6fc290a3888162fc562c8f44d55832a3b080"
 
 [[files]]
 file = "configureddefaults/config/refinedstorage-client.toml"
@@ -122,7 +126,7 @@ hash = "efe20236c392de03a1e601a38e5fce8d3e8583159c4064c1a3d701940f9f574c"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "1ed89d3bdff99c3c7d8e6d4f0490d8fa0f2ec046a46f964f2ff3b801e5319f3b"
+hash = "51a338d0b4fdcb5104cd21e5bc4ea066686fbff8206cb39a992e5f0706a31a3c"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
@@ -245,6 +249,16 @@ hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4f5493c1856783040fc205cfaf2b14ac49859aa36ead64496eaa163f5514b904"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "830867afe43b6bb4047a151c0c222c5ab313013d33157434542f0eb4ee77dc75"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "3de9fc56a1f656b20b308f462aac84aa50bd30551371137b752db21cf5091cfd"
 metafile = true
@@ -292,6 +306,16 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "a11836d8fd60f2b3d09b0add4e95460930fe6ddf6aaa6552f50c836c1f78cf14"
 metafile = true
 
 [[files]]
@@ -510,6 +534,11 @@ hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
 metafile = true
 
 [[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "7cf93b8501b4b286b6be7dd58298eb4d4f2293f946b3da297d3a0718c8816336"
+metafile = true
+
+[[files]]
 file = "mods/replaymod-1.20.1-2.6.15.jar"
 hash = "662aac0623b6c336b8fe54e7770f3ee18ecb19569817fab98c0de16db58c1f7c"
 
@@ -601,6 +630,16 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mt-ct-d.pw.toml"
+hash = "65c953eca7e2b25585815b83f825b32ef0c42d134c3fc3181277702b307b1ef8"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
