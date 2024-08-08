@@ -205,6 +205,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "c636979fe6705452c913fecba3dd590c0feb83ddbccdf6e8ec5e921c9681c769"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
 metafile = true
@@ -272,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "a5a5475c903b195bdd5f90808b178fa9285e334338e18db7447a8c734514f496"
+metafile = true
+
+[[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
 
 [[files]]
@@ -636,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "6283b102aa6957af813480ce101db718880f93db90e829487a202408d6e31042"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
 metafile = true
 
 [[files]]
