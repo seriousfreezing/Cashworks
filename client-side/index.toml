@@ -30,7 +30,7 @@ hash = "d0ea710d0519736a0168dae656f0e10443634914a61a4fef91e570d29ac0386b"
 
 [[files]]
 file = "configureddefaults/config/embeddium-options.json"
-hash = "91bb6ebb1d1e1b01165e2cf1a2e022c0e519605978f8d1e9e5275688abd68c3d"
+hash = "204a1014621427bc6b47e5f074e258e75d99dd656689d78e997378d4f607f1b6"
 
 [[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
@@ -67,10 +67,6 @@ hash = "0cabe5ac3ab7005ae55f921272f68e3575753cbd16daecec1f145a08611ea06f"
 [[files]]
 file = "configureddefaults/config/jei/jei-client.ini"
 hash = "cd4eb1af0c9e96c85ccf845ea3ac13b54088192cba3a1e5fde93faf3ce28b018"
-
-[[files]]
-file = "configureddefaults/config/lithium.properties"
-hash = "9a6a542c364d7e342820e12480784a10ffba62d1cc81f3aa76ec31e66934ec56"
 
 [[files]]
 file = "configureddefaults/config/mffs-common.toml"
@@ -114,7 +110,7 @@ hash = "143f0fa801b4646d97f2a606b51bd25739ec92a3f2e1aade99a9931e38191c7d"
 
 [[files]]
 file = "configureddefaults/config/smoothboot.json"
-hash = "aa7fbf0a5faeaeccdc706cfda9d2ce266ae12b52dc03ede4d4d246c6d9ea570b"
+hash = "92036354bf4486b540859e7ddc0da975ab0cba15fef7975c8e25fac3c0feefb6"
 
 [[files]]
 file = "configureddefaults/config/voicechat/voicechat-client.properties"
@@ -180,12 +176,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
+hash = "df90aa10942d1d5cac3f10f46d471d92858ad99979efceed319486dda208490f"
 metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "454a06dd8f4f896dc23545a1ea4dcf304ca1265cdfe6c98b729d2943fb0b0341"
+hash = "c9a1b8b06cb1cdceeea4dff51db30f91d682bfadae03917fd73bb5ec0ebc833e"
 metafile = true
 
 [[files]]
@@ -201,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -229,13 +230,18 @@ hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "6dc6226c9c9cb735ff22afaede63397e4f247a7afac965b3b1ad521ac792e6a8"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "de26e9cf129763063add663b9e7bb239a152216e37ee9e831ff955e0820f7e08"
+hash = "e2f1e10f36511dd1efa9e0c865f7ee54656c022d26bdda743eba2784d2c5dd30"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "df9fa54fc9635b60d8788138da56e972dabb350e6b55e0ce6709c29f029926d6"
+hash = "b3417e7c03644152f775f2b6c4cd7eef8437d68a898b639640d37788a6c564d9"
 metafile = true
 
 [[files]]
@@ -310,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "a11836d8fd60f2b3d09b0add4e95460930fe6ddf6aaa6552f50c836c1f78cf14"
+hash = "81a731e0f0e02d2a3b0605500724c7003e268ed6806040fa6b1ae1493c48d7fe"
 metafile = true
 
 [[files]]
@@ -325,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7324f361203515a8881061d912355d0dcc8307b755b487bed250a54c54e9aaa0"
+hash = "a6e9c9db6a2631771fd347ae2f5a9b80454c71e95f0b6d92f6d56797ba0783ac"
 metafile = true
 
 [[files]]
@@ -370,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "814eb30339dae8d7aaf2e6d7f12a37300747c3142e6d4bb8dc2ce5ece43960b3"
+hash = "fbb984a9f19934ccba273c93d203a3d9d623b2016b1c8c8af340b717910ca070"
 metafile = true
 
 [[files]]
@@ -380,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
+hash = "02a961f55839346fcef6cca287a27cc1532f0761735a9ff2712a3efe0e4489fe"
 metafile = true
 
 [[files]]
@@ -405,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "bce56a595682b811d74cc4e30a0104927723a4375135d255d3cdfa158b2a0669"
+hash = "18cd897d36743fc34b3647df44cf50d0b272fed45f9207ef4272f0183258bac7"
 metafile = true
 
 [[files]]
@@ -420,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
+hash = "200dc9d52925894d95675e92cb306f0982a3af0cb0376722c4422bd530685b24"
 metafile = true
 
 [[files]]
@@ -510,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
+hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
 metafile = true
 
 [[files]]
@@ -524,18 +530,28 @@ hash = "68a55e82a93a7c080c5799e5abcfebcd65cca78443a7de64f5083f109720734d"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "70b949dab65474c3687c98063f66282c7a580e0bf82f33615fac247fdc29019b"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
 metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "7cf93b8501b4b286b6be7dd58298eb4d4f2293f946b3da297d3a0718c8816336"
+hash = "ae3a231d49d4f89da599bfca61f4420b42158b62df7b33e9f08efa6c940cad89"
 metafile = true
 
 [[files]]
 file = "mods/replaymod-1.20.1-2.6.15.jar"
 hash = "662aac0623b6c336b8fe54e7770f3ee18ecb19569817fab98c0de16db58c1f7c"
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "493d90f8a2357351d53e72b27e70af82e05fae25e0f4496f540656b6517a1887"
+metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -549,7 +565,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "84298e5c4783b70dd8ea6abdda79b67b12a584f7420f6e72bbb5f91ea7875b35"
+hash = "fb91b41e7a3921f55326939ec7046e53fb765329ec591bf6d43bae804a541a31"
+metafile = true
+
+[[files]]
+file = "mods/selfexpression.pw.toml"
+hash = "4aee4a5ae8c9749de941ad78daa2ad5ba08eb6e3f41e946b3bb3f6d53399af5a"
 metafile = true
 
 [[files]]
@@ -574,12 +595,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8be59d4bd5e7aada4edc43d17aabd1efd87a6837f89033e8f68193c4958fddc4"
+hash = "4c9fe1c48de2de8501a443b7099b2e4d2a8a45f0e364ddffe7bebda145d0e987"
 metafile = true
 
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
-hash = "caed6f828069854d7489d3ddfe13b1d8a5c9901908d5769a5e575e237c0c103f"
+hash = "b27c18503a096fba94701b4335a2cce1f66c25b38c0f7fb7215d21ff36b434dc"
 metafile = true
 
 [[files]]
@@ -613,13 +634,18 @@ hash = "f68fa3f53f8aacd2122365a2ed173a297cbd2ecf7107420e4d2ad5206816d0cd"
 metafile = true
 
 [[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "6283b102aa6957af813480ce101db718880f93db90e829487a202408d6e31042"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
 metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
+hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
 
 [[files]]

@@ -1,1 +1,1 @@
-{"advanced":{"cpu_render_ahead_limit":5},"performance":{"use_entity_culling":false}}
+{"advanced":{"cpu_render_ahead_limit":5},"performance":{"use_entity_culling":false,"use_no_error_g_l_context":true}}
