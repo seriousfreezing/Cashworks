@@ -15,6 +15,6 @@ To install the modpack, follow these steps:
 7. You're ready to play!
 
 # 🪛Nvidia GPU?
-Replace Distant Horizons with Nvidium and Bobby, which improves:
+Replace Distant Horizons with [Nvidium](https://modrinth.com/mod/nvidium) and [Bobby](https://modrinth.com/mod/bobby), which improves:
 - Big performance boost;
 - No more compatibility with shaders.
