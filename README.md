@@ -13,3 +13,8 @@ To install the modpack, follow these steps:
 
 6. Add these two mods externally: EntityCulling, [Physics.](https://www.patreon.com/file?h=105510754&i=19422295)
 7. You're ready to play!
+
+# 🪛Nvidia GPU?
+Replace Distant Horizons with Nvidium and Bobby, which improves:
+- Big performance boost;
+- No more compatibility with shaders.
