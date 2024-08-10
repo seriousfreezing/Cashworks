@@ -11,7 +11,7 @@ To install the modpack, follow these steps:
 
 `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/seriousfreezing/Cashworks/main/client-side/pack.toml`
 
-6. Add these two mods externally: EntityCulling, [Physics.](https://www.patreon.com/file?h=105510754&i=19422295)
+6. Add these two mods externally: EntityCulling, [Physics](https://www.patreon.com/file?h=105510754&i=19422295), [Fastboot.](https://www.curseforge.com/minecraft/mc-mods/fastboot/download/5399873)
 7. You're ready to play!
 
 # 🪛Nvidia GPU?
