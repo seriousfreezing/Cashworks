@@ -148,11 +148,6 @@ hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
 metafile = true
 
 [[files]]
-file = "mods/blockus.pw.toml"
-hash = "00579dde1a43f35c46895a021e6e26cb2a05150a4fc554b94e03ed1b160b6fdd"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
