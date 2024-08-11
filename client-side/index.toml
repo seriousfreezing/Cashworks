@@ -69,14 +69,6 @@ file = "configureddefaults/config/jei/jei-client.ini"
 hash = "cd4eb1af0c9e96c85ccf845ea3ac13b54088192cba3a1e5fde93faf3ce28b018"
 
 [[files]]
-file = "configureddefaults/config/mffs-common.toml"
-hash = "1a9cdc7759fe1bcf6b194dbca59a25638e5acf7f2002583b885037f7a531d06a"
-
-[[files]]
-file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
-
-[[files]]
 file = "configureddefaults/config/naturescompass.json"
 hash = "546d9f2394c8f5a77cd6382a1cb034bcc4384a82afc4b070940e2c094fd88b42"
 
@@ -103,10 +95,6 @@ hash = "85d85ac396f9ecb7729ec69353d907e6d8d1e2fcad3f5943d6208c41ce170bcb"
 [[files]]
 file = "configureddefaults/config/securitycraft-client.toml"
 hash = "1762d8b24a50377310fb8ec90273c429ae0df0b45d96ec85d307b091eb957ec0"
-
-[[files]]
-file = "configureddefaults/config/silentgear-common.toml"
-hash = "143f0fa801b4646d97f2a606b51bd25739ec92a3f2e1aade99a9931e38191c7d"
 
 [[files]]
 file = "configureddefaults/config/smoothboot.json"
@@ -248,10 +236,6 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
-
-[[files]]
-file = "mods/create_interactive-1201-forge-1.0.2-beta.2.jar"
-hash = "17be49277f060061059277bac5ab750631306767bac06cb1ef4945d892b2bf2d"
 
 [[files]]
 file = "mods/croptopia.pw.toml"
@@ -471,11 +455,6 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "22ffca942573f1c39cc6c495122a31706a12eeb655c013c6c017aa1306ccaf7b"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "200dc9d52925894d95675e92cb306f0982a3af0cb0376722c4422bd530685b24"
 metafile = true
 
 [[files]]
