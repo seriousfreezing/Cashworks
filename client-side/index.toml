@@ -193,11 +193,6 @@ hash = "29c9add8e5361b1b4af4e5c024f3e1d00e1d2d3d4907d2b95402bf03d0ac5b49"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -283,11 +278,6 @@ hash = "b3417e7c03644152f775f2b6c4cd7eef8437d68a898b639640d37788a6c564d9"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-block-entities.pw.toml"
-hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4f5493c1856783040fc205cfaf2b14ac49859aa36ead64496eaa163f5514b904"
 metafile = true
@@ -328,6 +318,11 @@ hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
 metafile = true
 
 [[files]]
+file = "mods/extrasounds-forge.pw.toml"
+hash = "c26adf8148325c8b83e439cf50c9457b8d683652f16fa8f58b7a249ab6b168a6"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -340,11 +335,6 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
 
 [[files]]
@@ -369,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0fdf262047af365220b5c871dc63dab8e78905b44d4b0536b8bb99e9719d378e"
+hash = "dcef11b4a1c64a35412c41868fc7afbe648c575eacf1f70194fb3ed92552758e"
 metafile = true
 
 [[files]]
@@ -468,18 +458,13 @@ hash = "22ffca942573f1c39cc6c495122a31706a12eeb655c013c6c017aa1306ccaf7b"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b9c03eeef85a050a626770dee002377099248b5a33ece835a162163ca8d443df"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
-metafile = true
-
-[[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "7776c44ec1265a67bbba7cac2a3dfd9f6893ea670ee95ffb4ed94ef5bacdf8cc"
-metafile = true
-
-[[files]]
-file = "mods/mru.pw.toml"
-hash = "b50fd64774cc4402162cba8f994807c381432bf778bcbb17b96ab29c9350883c"
 metafile = true
 
 [[files]]
@@ -593,10 +578,6 @@ hash = "ae3a231d49d4f89da599bfca61f4420b42158b62df7b33e9f08efa6c940cad89"
 metafile = true
 
 [[files]]
-file = "mods/replaymod-1.20.1-2.6.15.jar"
-hash = "662aac0623b6c336b8fe54e7770f3ee18ecb19569817fab98c0de16db58c1f7c"
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "73f52912d24a121d62ea8c8f7ed00ac8e6ac7cec1a7253ca0cecb24d7cb9f61a"
 metafile = true
@@ -637,11 +618,6 @@ hash = "4c9fe1c48de2de8501a443b7099b2e4d2a8a45f0e364ddffe7bebda145d0e987"
 metafile = true
 
 [[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "b27c18503a096fba94701b4335a2cce1f66c25b38c0f7fb7215d21ff36b434dc"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "6068cdff2ed4152619680b61ec139e35ac3ef3f867ec34c3a1fc41a24b446465"
 metafile = true
@@ -664,11 +640,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f809175840d6a626965624c859928a6ac5f1d78f31b990ab3288f752352bb41a"
-metafile = true
-
-[[files]]
-file = "mods/sound.pw.toml"
-hash = "f68fa3f53f8aacd2122365a2ed173a297cbd2ecf7107420e4d2ad5206816d0cd"
 metafile = true
 
 [[files]]
