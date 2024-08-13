@@ -243,6 +243,11 @@ hash = "011d35087c3d81b17000ba7604a73fef600a868021eed8c14df2dc2b77ca7ddc"
 metafile = true
 
 [[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "4216d0e3d94898a02b292003f3b1bac1d166e49b77b9a37ea88370678c72b8df"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
@@ -319,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasounds-forge.pw.toml"
-hash = "c26adf8148325c8b83e439cf50c9457b8d683652f16fa8f58b7a249ab6b168a6"
+hash = "cae441cbe76916f73967afd909069cfd16629ba91f9f0018f4e170961ca6dba1"
 metafile = true
 
 [[files]]
@@ -670,6 +675,11 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "d1eedbc027b542abaabb1323cb57c42c8f445121d6a9d619a4b0bb220164d3ac"
+metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
