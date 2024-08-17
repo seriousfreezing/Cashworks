@@ -1,0 +1,13 @@
+name = "Fazcraft [Minecraft x FNaF]"
+filename = "fazcraft-3.7.7.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f0cf71f9f898bedbf64e4efde829e3d72f652a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5297241
+project-id = 614831

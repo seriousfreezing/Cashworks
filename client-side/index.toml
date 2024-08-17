@@ -110,7 +110,7 @@ hash = "efe20236c392de03a1e601a38e5fce8d3e8583159c4064c1a3d701940f9f574c"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "51a338d0b4fdcb5104cd21e5bc4ea066686fbff8206cb39a992e5f0706a31a3c"
+hash = "9f4d9fc6b850d99eb3c64b70f5d3e74ca870b5ec346121c1bd83772d56411b8c"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -243,6 +243,11 @@ hash = "011d35087c3d81b17000ba7604a73fef600a868021eed8c14df2dc2b77ca7ddc"
 metafile = true
 
 [[files]]
+file = "mods/create-northstar.pw.toml"
+hash = "6f3776e918248436a05045c383dbc5bfda9fd22a11fdae00024337a8e1148135"
+metafile = true
+
+[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "4216d0e3d94898a02b292003f3b1bac1d166e49b77b9a37ea88370678c72b8df"
 metafile = true
@@ -333,6 +338,11 @@ hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
 
 [[files]]
+file = "mods/fazcraft-mod.pw.toml"
+hash = "c7a138d8cb806751a3238aadf412816790de28ebe8e149bb12805b440c048db1"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
@@ -340,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
+metafile = true
+
+[[files]]
+file = "mods/fnafdecor.pw.toml"
+hash = "3e35893d1228ef95b3f68fba4b5a6f60f187f2a8f01ef1cda0ad9b465277a00a"
 metafile = true
 
 [[files]]
@@ -355,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "68c4f7be227fade2f33dc6d1a06e6a83cf59414fd405324b9316d15dc141d2f8"
 metafile = true
 
 [[files]]

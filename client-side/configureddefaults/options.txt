@@ -1,7 +1,7 @@
 version:3465
 enableVsync:false
 simulationDistance:5
-resourcePacks:["file/FreshAnimations_v1.9.2.zip","file/Midnighttiggers-FCT-Default_1.20_V3.zip"]
+resourcePacks:["file/FreshAnimations_v1.9.2.zip","file/Midnighttiggers-FCT-Default_1.20_V3.zip","file/Create Computers 1.2.1 - 1.20.1.zip"]
 incompatibleResourcePacks:["file/Midnighttiggers-FCT-Default_1.20_V3.zip"]
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.v
 key_key.voice_chat:key.keyboard.grave.accent

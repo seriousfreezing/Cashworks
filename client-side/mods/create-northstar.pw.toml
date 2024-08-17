@@ -1,0 +1,13 @@
+name = "Create: Northstar"
+filename = "northstar-0.1cb-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "114beb508c070f294bf5dd15e3150a2d098e9103"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5611707
+project-id = 1071749

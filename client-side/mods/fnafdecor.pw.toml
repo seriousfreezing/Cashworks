@@ -1,0 +1,13 @@
+name = "FnafDecor"
+filename = "FnafDecor_V6_1-20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81e42f9a02030faa07e4b3071ed27399e3ebd870"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4967616
+project-id = 452562
